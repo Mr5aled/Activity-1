@@ -10,5 +10,6 @@ public class HelloWorld {
         int number = reader.nextInt();
         System.out.println("You entered: " + number);
         //This code is perfect..
+        //Great
     }
 }
